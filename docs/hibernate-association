@@ -1,0 +1,9 @@
+    @OneToMany(fetch= FetchType.EAGER,  cascade= CascadeType.ALL)
+    @Column(name = "address")
+    @JoinTable(name="user_address" , joinColumns=@JoinColumn(name="id") , inverseJoinColumns=@JoinColumn(name="address_id"))
+    private List<Address> addresses;
+    
+    Creates three table :
+      1. User table with default columns - not with any association column
+      2. Address table - default columns
+      3. User_Address -association table with two columns - id and address_id
