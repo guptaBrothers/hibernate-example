@@ -1,0 +1,35 @@
+Case 1:
+        @OneToMany(fetch= FetchType.EAGER,  cascade= CascadeType.ALL)
+        @Column(name = "address")
+        @JoinTable(name="user_address" , joinColumns=@JoinColumn(name="id") , inverseJoinColumns=@JoinColumn(name="address_id"))
+        private List<Address> addresses;
+
+         create table user (
+               id bigint not null,
+                company varchar(255),
+                dob datetime,
+                name varchar(255),
+                primary key (id)
+            ) engine=MyISAM
+        Hibernate:
+
+            create table user_address (
+               id bigint not null,
+                address_id bigint not null
+            ) engine=MyISAM
+        Hibernate:
+
+            alter table user_address
+               add constraint UK_m3t1qb7j0fluav2a0kphxyoue unique (address_id)
+        Hibernate:
+
+            alter table user_address
+               add constraint FKdaaxogn1ss81gkcsdn05wi6jp
+               foreign key (address_id)
+               references address (id)
+        Hibernate:
+
+    alter table user_address
+       add constraint FK30kwnaqb7st3qpajxj5nqlds9
+       foreign key (id)
+       references user (id)
