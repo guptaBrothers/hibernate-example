@@ -1,0 +1,18 @@
+[
+  {
+    "name" : "rahul",
+    "dob" : "10 Apr ,2020",
+    "company" : "Citi",
+    "addresses" : [
+      {
+        "name": "Rahul Kumar Gupta",
+        "street" : "Goldern Street",
+        "houseNo" : "100",
+        "city" : "Balewadi",
+        "pin" : 411045,
+        "state": "Maharashatra",
+        "country" : "India"
+      }
+    ]
+  }
+]

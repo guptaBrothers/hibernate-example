@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aad988a-0023-4164-af1c-f751deb433ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../spring-batch-example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-batch-example/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-batch-example/src/main/java/com/example/config/BasicBatchConfigurer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-batch-example/src/main/java/com/example/config/BasicBatchConfigurer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-batch-example/src/main/java/com/example/conroller/JobController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-batch-example/src/main/java/com/example/conroller/JobController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-batch-example/src/main/java/com/example/reader/CustomFlatFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-batch-example/src/main/java/com/example/reader/CustomFlatFileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-batch-example/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-batch-example/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hibernate-examples" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hibernate-examples" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hibernate-examples" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
+        <Entry>
+          <option name="moduleName" value="hibernate-examples" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_1.groovy" />
+        </Entry>
+        <Entry>
+          <option name="moduleName" value="hibernate-examples" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_2.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bc2CinfkAakbZPDcOy6nNgXOnu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/Change Language" value="JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../excel-services" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="rk.hibernate.example.repository" />
+      <recent name="rk.hibernate.example.service" />
+      <recent name="rk.hibernate.example.entity" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build --warning-mode all" />
+      <command value="gradle clean" />
+      <command value="gradle assemble" />
+      <command value="gradle build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rk.hibernate.example.App" />
+      <module name="hibernate-examples.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rk.hibernate.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hibernate-examples [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="hibernate-examples [build --warning-mode all]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+            <option value="--warning-mode" />
+            <option value="all" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="hibernate-examples [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="hibernate-examples [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.hibernate-examples [build]" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Gradle.hibernate-examples [assemble]" />
+        <item itemvalue="Gradle.hibernate-examples [clean]" />
+        <item itemvalue="Gradle.hibernate-examples [build --warning-mode all]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aad988a-0023-4164-af1c-f751deb433ed" name="Default Changelist" comment="" />
+      <created>1588916935949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588916935949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="326" y="0" key="CommitChangelistDialog2" timestamp="1588942620960">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="326" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1588942620960" />
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1588921470245">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588921470245" />
+    <state width="1288" height="294" key="GridCell.Tab.0.bottom" timestamp="1588941635283">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1288" height="294" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588941635283" />
+    <state width="1288" height="294" key="GridCell.Tab.0.center" timestamp="1588941635283">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1288" height="294" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588941635283" />
+    <state width="1288" height="294" key="GridCell.Tab.0.left" timestamp="1588941635283">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1288" height="294" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588941635283" />
+    <state width="1288" height="294" key="GridCell.Tab.0.right" timestamp="1588941635283">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1288" height="294" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588941635283" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1588938920167">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.0.1366.738@0.0.1366.738" timestamp="1588938920167" />
+    <state x="339" y="167" width="672" height="677" key="run.anything.popup" timestamp="1588939465211">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="167" width="672" height="677" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1588939465211" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1588926447531">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1588926447531" />
+  </component>
+</project>
