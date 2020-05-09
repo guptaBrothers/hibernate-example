@@ -19,7 +19,7 @@ public class Address
     @Column(name="Id")
     private long id;
     @Column(name = "NAME")
-    private String addName;
+    private String name;
     @Column(name = "HOUSE_NO")
     private String houseNo;
     @Column(name = "STREET")

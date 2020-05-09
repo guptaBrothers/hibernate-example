@@ -14,6 +14,8 @@ import javax.persistence.JoinColumn;
 import javax.persistence.JoinTable;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
 
 import lombok.Data;
 
@@ -29,6 +31,7 @@ public class User
     @Column(name = "NAME")
     private String name;
     @Column(name = "DOB")
+    @Temporal(TemporalType.DATE)
     private Date dob;
     @Column(name = "COMPANY")
     private String company;
